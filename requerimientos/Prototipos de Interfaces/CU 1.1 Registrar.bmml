@@ -1,0 +1,114 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1129" measuredH="520" mockupW="1129" mockupH="520">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="0" y="0" w="822" h="476" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Microbbloging%20-%20Registro%0Ahttp%3A//registro.microblogging.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="46" y="92" w="264" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MicroBlogg</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="10" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="877" y="107" w="222" h="79" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MicroBlogg</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::LinkBar" x="279" y="400" w="-1" h="-1" measuredW="309" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Contacto%2C%20Acerca%20de%20Microblogg%2C%20Ayuda</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="381" w="-1" h="-1" measuredW="107" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Home%2C%20Contacto</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="408" w="-1" h="-1" measuredW="184" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Acerca%20de%20Microblogg%2C%20Ayuda</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="113" y="216" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingresa%20a%20Microblogg%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="923" y="195" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ingresa%20a%20Microblogg%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Button" x="133" y="314" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Registrarse</text>
+      </controlProperties>
+    </control>
+    <control controlID="22" controlTypeID="com.balsamiq.mockups::Button" x="943" y="216" w="-1" h="-1" measuredW="90" measuredH="27" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>7317724</color>
+        <text>Registrarse</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Component" x="325" y="92" w="409" h="280" measuredW="409" measuredH="280" zOrder="11" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="409" h="280"/>
+        <override controlID="1" x="257" y="83" w="129" h="25"/>
+        <override controlID="2" x="78" y="81" w="164" h="27"/>
+        <override controlID="4" x="78" y="174" w="164" h="27"/>
+        <override controlID="5" x="78" y="223" w="164" h="27"/>
+        <override controlID="6" x="78" y="37" w="164" h="27"/>
+        <override controlID="7" x="257" y="41" w="34" h="21"/>
+        <override controlID="3" x="78" y="127" w="164" h="27"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#Formulario</src>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::VSlider" x="1088" y="249" w="-1" h="123" measuredW="11" measuredH="33" zOrder="13" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="__group__" x="877" y="243" w="222" h="134" measuredW="222" measuredH="134" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>Formulario</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="222" h="134" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Formulario%20de%20Registro</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::DateChooser" x="140" y="71" w="71" h="-1" measuredW="129" measuredH="25" zOrder="1" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>%2001/01/2015%20%20%20</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextInput" x="28" y="43" w="89" h="-1" measuredW="60" measuredH="27" zOrder="2" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Nombre</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::TextInput" x="28" y="70" w="89" h="-1" measuredW="60" measuredH="27" zOrder="3" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Apellido</text>
+          </controlProperties>
+        </control>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::TextInput" x="28" y="97" w="89" h="-1" measuredW="124" measuredH="27" zOrder="4" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Correo%20Electronico</text>
+          </controlProperties>
+        </control>
+        <control controlID="6" controlTypeID="com.balsamiq.mockups::TextInput" x="28" y="16" w="132" h="-1" measuredW="128" measuredH="27" zOrder="5" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Nombre%20de%20Usuario</text>
+          </controlProperties>
+        </control>
+        <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="140" y="46" w="41" h="-1" measuredW="34" measuredH="21" zOrder="6" locked="false" isInGroup="32">
+          <controlProperties>
+            <text>Edad%3A</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
