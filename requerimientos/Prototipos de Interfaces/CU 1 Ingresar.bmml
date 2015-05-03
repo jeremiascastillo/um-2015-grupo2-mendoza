@@ -10,45 +10,48 @@
         <text>Registrarse%2C%20Identificarse</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="154" y="107" w="549" h="79" measuredW="77" measuredH="79" zOrder="2" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>MicroBlogg</text>
-      </controlProperties>
-    </control>
-    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="10" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="3" locked="false" isInGroup="-1"/>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="877" y="107" w="222" h="79" measuredW="77" measuredH="79" zOrder="4" locked="false" isInGroup="-1">
-      <controlProperties>
-        <text>MicroBlogg</text>
-      </controlProperties>
-    </control>
-    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="879" y="252" w="218" h="27" measuredW="191" measuredH="27" zOrder="5" locked="false" isInGroup="-1">
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="10" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::ButtonBar" x="879" y="252" w="218" h="27" measuredW="191" measuredH="27" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Registrarse%2C%20Identificarse</text>
       </controlProperties>
     </control>
-    <control controlID="6" controlTypeID="com.balsamiq.mockups::LinkBar" x="279" y="381" w="-1" h="-1" measuredW="309" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::LinkBar" x="279" y="381" w="-1" h="-1" measuredW="309" measuredH="19" zOrder="4" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Home%2C%20Contacto%2C%20Acerca%20de%20Microblogg%2C%20Ayuda</text>
       </controlProperties>
     </control>
-    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="381" w="-1" h="-1" measuredW="107" measuredH="19" zOrder="7" locked="false" isInGroup="-1">
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="381" w="-1" h="-1" measuredW="107" measuredH="19" zOrder="5" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Home%2C%20Contacto</text>
       </controlProperties>
     </control>
-    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="408" w="-1" h="-1" measuredW="184" measuredH="19" zOrder="8" locked="false" isInGroup="-1">
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::LinkBar" x="877" y="408" w="-1" h="-1" measuredW="184" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Acerca%20de%20Microblogg%2C%20Ayuda</text>
       </controlProperties>
     </control>
-    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="363" y="216" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Label" x="363" y="216" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ingresa%20a%20Microblogg%21%21</text>
       </controlProperties>
     </control>
-    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="923" y="216" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="923" y="216" w="-1" h="-1" measuredW="130" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
       <controlProperties>
         <text>Ingresa%20a%20Microblogg%21%21</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Image" x="202" y="92" w="464" h="109" measuredW="579" measuredH="168" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Microblogg.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Image" x="877" y="115" w="223" h="86" measuredW="579" measuredH="168" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>./assets/Microblogg.png</src>
       </controlProperties>
     </control>
   </controls>
