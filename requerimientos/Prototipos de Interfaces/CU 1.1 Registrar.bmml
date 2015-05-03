@@ -5,14 +5,17 @@
         <text>Microbbloging%20-%20Registro%0Ahttp%3A//registro.microblogging.com</text>
       </controlProperties>
     </control>
-    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="46" y="92" w="264" h="79" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="46" y="92" w="264" h="79" measuredW="579" measuredH="168" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>../../../../Dropbox/Facu/Ingenieria%2520de%2520software/Microblogg.png</src>
         <text>MicroBlogg</text>
       </controlProperties>
     </control>
     <control controlID="3" controlTypeID="com.balsamiq.mockups::iPhone" x="847" y="10" w="-1" h="-1" measuredW="282" measuredH="510" zOrder="2" locked="false" isInGroup="-1"/>
-    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="877" y="107" w="222" h="79" measuredW="77" measuredH="79" zOrder="3" locked="false" isInGroup="-1">
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="877" y="107" w="222" h="79" measuredW="579" measuredH="168" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
+        <src>./assets/Microblogg.png</src>
         <text>MicroBlogg</text>
       </controlProperties>
     </control>
@@ -63,7 +66,6 @@
         <override controlID="6" x="78" y="37" w="164" h="27"/>
         <override controlID="7" x="257" y="41" w="34" h="21"/>
         <override controlID="3" x="78" y="127" w="164" h="27"/>
-        <override controlID="-1"/>
         <src>./assets/symbols.bmml#Formulario</src>
       </controlProperties>
     </control>
