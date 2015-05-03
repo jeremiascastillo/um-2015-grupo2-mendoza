@@ -5,10 +5,17 @@
         <text>Microbbloging%20-%20Identificarse%0Ahttp%3A//identificar.microblogging.com</text>
       </controlProperties>
     </control>
+<<<<<<< HEAD
     <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="154" y="107" w="549" h="79" measuredW="579" measuredH="168" zOrder="1" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
         <src>./assets/Microblogg.png</src>
+=======
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="186" y="107" w="495" h="97" measuredW="579" measuredH="168" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <src>../../../../Dropbox/Facu/Ingenieria%2520de%2520software/Microblogg.png</src>
+>>>>>>> fa71a96d88b992a81d954eaba77dd8bfe1f08b69
         <text>MicroBlogg</text>
       </controlProperties>
     </control>
@@ -16,7 +23,11 @@
     <control controlID="4" controlTypeID="com.balsamiq.mockups::Image" x="877" y="107" w="222" h="79" measuredW="579" measuredH="168" zOrder="3" locked="false" isInGroup="-1">
       <controlProperties>
         <borderStyle>square</borderStyle>
+<<<<<<< HEAD
         <src>./assets/Microblogg.png</src>
+=======
+        <src>../../../../Dropbox/Facu/Ingenieria%2520de%2520software/Microblogg.png</src>
+>>>>>>> fa71a96d88b992a81d954eaba77dd8bfe1f08b69
         <text>MicroBlogg</text>
       </controlProperties>
     </control>
