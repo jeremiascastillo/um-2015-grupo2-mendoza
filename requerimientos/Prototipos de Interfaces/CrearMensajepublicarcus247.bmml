@@ -112,5 +112,84 @@
         <text>Mensaje</text>
       </controlProperties>
     </control>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Component" x="399" y="179" w="380" h="209" measuredW="380" measuredH="209" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <override controlID="0" x="0" y="0" w="380" h="209"/>
+        <override controlID="1" x="150" y="174" w="219" h="27">
+          <selectedIndex>1</selectedIndex>
+          <text>Publico%2C%20Privado%2C%20Cancelar</text>
+        </override>
+        <override controlID="2" x="15" y="27" w="195" h="140"/>
+        <override controlID="3" x="245" y="38" w="100" h="24"/>
+        <override controlID="-1"/>
+        <src>./assets/symbols.bmml#MensajePriv</src>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="__group__" x="4" y="179" w="389" h="209" measuredW="389" measuredH="209" zOrder="17" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>MensajePriv</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="389" h="209" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Creaci%F3n%20de%20Mensaje</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="165" y="174" w="-1" h="-1" measuredW="213" measuredH="27" zOrder="1" locked="false" isInGroup="33">
+          <controlProperties>
+            <selectedIndex>0</selectedIndex>
+            <text>Publico%2C%20Privado%2C%20Cancelar</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="15" y="27" w="-1" h="-1" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="33">
+          <controlProperties>
+            <text>Escribe%20aqui%20el%20mensaje</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="34" controlTypeID="__group__" x="829" y="176" w="228" h="201" measuredW="228" measuredH="201" zOrder="19" locked="false" isInGroup="-1">
+      <controlProperties>
+        <controlName>MensajePriv</controlName>
+      </controlProperties>
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::FieldSet" x="0" y="0" w="228" h="201" measuredW="200" measuredH="170" zOrder="0" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Creaci%F3n%20de%20Mensaje</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::ButtonBar" x="8" y="167" w="219" h="26" measuredW="213" measuredH="27" zOrder="1" locked="false" isInGroup="34">
+          <controlProperties>
+            <selectedIndex>1</selectedIndex>
+            <text>Publico%2C%20Privado%2C%20Cancelar</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::TextArea" x="8" y="26" w="117" h="135" measuredW="200" measuredH="140" zOrder="2" locked="false" isInGroup="34">
+          <controlProperties>
+            <text>Escribe%20aqui%20el%20mensaje</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::ComboBox" x="953" y="204" w="98" h="-1" measuredW="102" measuredH="24" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Destinatario</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Button" x="19" y="353" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="21" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Button" x="408" y="353" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Button" x="976" y="299" w="-1" h="-1" measuredW="60" measuredH="27" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Enviar</text>
+      </controlProperties>
+    </control>
   </controls>
 </mockup>
